@@ -1,0 +1,102 @@
+{
+  "$schema": "http://json-schema.org/draft-06/schema#",
+  "type": "array",
+  "items": {
+    "$ref": "#/definitions/Welcome5Element"
+  },
+  "definitions": {
+    "Welcome5Element": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "symbol": {
+          "type": "string"
+        },
+        "priceChange": {
+          "type": "string"
+        },
+        "priceChangePercent": {
+          "type": "string"
+        },
+        "weightedAvgPrice": {
+          "type": "string"
+        },
+        "prevClosePrice": {
+          "type": "string"
+        },
+        "lastPrice": {
+          "type": "string"
+        },
+        "lastQty": {
+          "type": "string"
+        },
+        "bidPrice": {
+          "type": "string"
+        },
+        "bidQty": {
+          "type": "string"
+        },
+        "askPrice": {
+          "type": "string"
+        },
+        "askQty": {
+          "type": "string"
+        },
+        "openPrice": {
+          "type": "string"
+        },
+        "highPrice": {
+          "type": "string"
+        },
+        "lowPrice": {
+          "type": "string"
+        },
+        "volume": {
+          "type": "string"
+        },
+        "quoteVolume": {
+          "type": "string"
+        },
+        "openTime": {
+          "type": "integer"
+        },
+        "closeTime": {
+          "type": "integer"
+        },
+        "firstId": {
+          "type": "integer"
+        },
+        "lastId": {
+          "type": "integer"
+        },
+        "count": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "askPrice",
+        "askQty",
+        "bidPrice",
+        "bidQty",
+        "closeTime",
+        "count",
+        "firstId",
+        "highPrice",
+        "lastId",
+        "lastPrice",
+        "lastQty",
+        "lowPrice",
+        "openPrice",
+        "openTime",
+        "prevClosePrice",
+        "priceChange",
+        "priceChangePercent",
+        "quoteVolume",
+        "symbol",
+        "volume",
+        "weightedAvgPrice"
+      ],
+      "title": "Welcome5Element"
+    }
+  }
+}
