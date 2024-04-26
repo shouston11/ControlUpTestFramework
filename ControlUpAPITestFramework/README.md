@@ -33,6 +33,15 @@ All testcases live in here - the required endpoints, global variables and authen
 
 To Run Tests: Select View -> Test Explorer -> All tests can be executed from here.
 
+CI: 
+I Created a CI Pipeline in Azure Devops - the following .yml file can be found in the solution: AzureDevopsAPIIntegrationTests.yml.
+The pipeline will complete the following steps:
+
+1 - Checkout the codebase repo from github.
+2 - Restore the repo
+3 - Build the repo
+4 - Run Tests
+5 - Obtain Results
 
 
 
