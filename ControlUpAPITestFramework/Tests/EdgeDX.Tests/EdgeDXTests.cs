@@ -1,7 +1,6 @@
 ﻿using ControlUpAPITestFramework.HttpHelpers;
 using ControlUpAPITestFramework.Models.API.CurrentAveragePrice;
 using ControlUpAPITestFramework.Models.API.TickerPriceChangeStats;
-using Microsoft.Extensions.Configuration;
 using System.Net;
 
 namespace ControlUpAPITestFramework.Tests.EdgeDX.Tests
