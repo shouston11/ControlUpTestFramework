@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dev\\ControlUpTestFramework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE83309E-7CB8-4CED-B372-1A857E26680D}|ControlUpAPITestFramework\\ControlUpAPITestFramework.csproj|c:\\dev\\controluptestframework\\controlupapitestframework\\apitestconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE83309E-7CB8-4CED-B372-1A857E26680D}|ControlUpAPITestFramework\\ControlUpAPITestFramework.csproj|solutionrelative:controlupapitestframework\\apitestconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE83309E-7CB8-4CED-B372-1A857E26680D}|ControlUpAPITestFramework\\ControlUpAPITestFramework.csproj|c:\\dev\\controluptestframework\\controlupapitestframework\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AE83309E-7CB8-4CED-B372-1A857E26680D}|ControlUpAPITestFramework\\ControlUpAPITestFramework.csproj|solutionrelative:controlupapitestframework\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApiTestConfiguration.cs",
+              "DocumentMoniker": "C:\\Dev\\ControlUpTestFramework\\ControlUpAPITestFramework\\ApiTestConfiguration.cs",
+              "RelativeDocumentMoniker": "ControlUpAPITestFramework\\ApiTestConfiguration.cs",
+              "ToolTip": "C:\\Dev\\ControlUpTestFramework\\ControlUpAPITestFramework\\ApiTestConfiguration.cs",
+              "RelativeToolTip": "ControlUpAPITestFramework\\ApiTestConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T12:17:23.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Dev\\ControlUpTestFramework\\ControlUpAPITestFramework\\appsettings.json",
+              "RelativeDocumentMoniker": "ControlUpAPITestFramework\\appsettings.json",
+              "ToolTip": "C:\\Dev\\ControlUpTestFramework\\ControlUpAPITestFramework\\appsettings.json",
+              "RelativeToolTip": "ControlUpAPITestFramework\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-07T12:17:19.207Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
